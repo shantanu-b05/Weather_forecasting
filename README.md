@@ -35,9 +35,9 @@ Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn keras tensorflow 
 ```
-##📈 Results
+## 📈 Results
 -Predicts temperature based on past weather patterns
 
 -Generates plots comparing actual vs predicted temperature
 
-=Achieves low error metrics depending on hyperparameters and training data split
+-Achieves low error metrics depending on hyperparameters and training data split
